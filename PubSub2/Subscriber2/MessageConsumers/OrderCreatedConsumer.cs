@@ -1,4 +1,4 @@
-namespace Subscriber.Consumers;
+namespace Subscriber2.Consumers;
 
 using System.Threading.Tasks;
 using MassTransit;

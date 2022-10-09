@@ -1,4 +1,4 @@
-namespace Subscriber.Consumers;
+namespace Subscriber2.Consumers;
 
 using MassTransit;
 
